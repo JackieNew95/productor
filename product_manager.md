@@ -82,11 +82,12 @@
 1. 线框图
 
 ![alt text](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1513533030&di=96515f2da010c1e9096115692ef43fb8&imgtype=jpg&er=1&src=http%3A%2F%2Fwww.51sjlw.com%2Fuploads%2Fallimg%2F140609%2F1_140609084004_1.jpg)
+
 2. 页面流程图
 
 ![alt text](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1512938394062&di=12e57526d5e40d85efe476abd3f6b426&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01c0b658ef04c1a8012049ef23408c.png%40900w_1l_2o_100sh.jpg)
 
-3. 高保真原型图
+3. 高保帧原型图
 
 
 ![alt text](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1513533151&di=b144473ee6e40316e4a29e614051536e&imgtype=jpg&er=1&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01f574579182a70000012e7eb40c07.png%401280w_1l_2o_100sh.png)
