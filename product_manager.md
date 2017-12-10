@@ -51,6 +51,7 @@
 一定的时间去深入了解行业和用户
 是非常必要的
 1. 商业需求文档
+
 ![alt text](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1512937244240&di=40daf2cc102ef80164818a6e4459e099&imgtype=jpg&src=http%3A%2F%2Fimg3.imgtn.bdimg.com%2Fit%2Fu%3D2925058893%2C2567363242%26fm%3D214%26gp%3D0.jpg)
 
 2. 市场需求文档
@@ -64,16 +65,37 @@
 
 1. 产品背景
 2. 用户画像
+
+![alt text](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1512936881402&di=d6593e936cb8646775214470d8ae69d0&imgtype=0&src=http%3A%2F%2Fwww.rxo2o.com%2Fuploads%2Fallimg%2F160803%2F1470218132614622.jpg)
 3. 时间规划
-4. 功能架构
+4. 功能结构
+
+![alt text](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2810305472,1303204865&fm=27&gp=0.jpg)
+
 5. 任务流程
+
+![alt text](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1513533030&di=96515f2da010c1e9096115692ef43fb8&imgtype=jpg&er=1&src=http%3A%2F%2Fwww.51sjlw.com%2Fuploads%2Fallimg%2F140609%2F1_140609084004_1.jpg)
+
 6. 需求详细说明
 
 ## 交互设计
 1. 线框图
+
+![alt text](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1513533030&di=96515f2da010c1e9096115692ef43fb8&imgtype=jpg&er=1&src=http%3A%2F%2Fwww.51sjlw.com%2Fuploads%2Fallimg%2F140609%2F1_140609084004_1.jpg)
 2. 页面流程图
+
+![alt text](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1512938394062&di=12e57526d5e40d85efe476abd3f6b426&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01c0b658ef04c1a8012049ef23408c.png%40900w_1l_2o_100sh.jpg)
+
 3. 高保真原型图
-4. 交互设计说明
+
+
+![alt text](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1513533151&di=b144473ee6e40316e4a29e614051536e&imgtype=jpg&er=1&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01f574579182a70000012e7eb40c07.png%401280w_1l_2o_100sh.png)
+
+4. 交互设计说明（DRD）
+
+
+![alt text](http://upload.admin5.com/2016/1112/1478934990958.png)
+
 
 ## ui设计
  一般来说交互设计师讲线框图交给设计师，设计师就可以开工了。这个过程，交互也要多和设计去沟通
@@ -83,6 +105,9 @@
  
 ## 项目上线
 1. 用户反馈和评论
+
+![alt text](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1512938597527&di=8fe42d4dcb6a0587a7058fc33a793c44&imgtype=0&src=http%3A%2F%2Fwww.umeng.com%2Fimages%2Fpic%2Fhome%2Ffeedback%2Fimg-2.png)
+
 2. 需求提取
 3. 进行修正和迭代
    
