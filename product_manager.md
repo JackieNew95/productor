@@ -32,8 +32,60 @@
 
 
 ## 用户需求
-![alt text](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=134364519,1007476053&fm=27&gp=0.jpg"title")
-## 
+1. 产品定位
+![alt text](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=5631657,2541690641&fm=27&gp=0.jpg)
+
+2. 需求分析
+
+   2.1 竞品分析 
+   ![alt text](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1512936823415&di=f4a4c0b22265c2d56b858d96b2cf1836&imgtype=0&src=http%3A%2F%2Fimage.woshipm.com%2Fwp-files%2F2017%2F03%2FMlGeVUsogh2djvptPici.png)
+   2.2 用户调研
+   ![alt text](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1512936933208&di=2351d5c4ed05aa6db60ed51ced960d6d&imgtype=jpg&src=http%3A%2F%2Fimg2.imgtn.bdimg.com%2Fit%2Fu%3D1057474922%2C1859890991%26fm%3D214%26gp%3D0.jpg)
+3. 需求筛选
+![alt text](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=4018722530,3181580941&fm=27&gp=0.jpg)
+
+## 商业价值
+
+这两个文档并不是多余的，也不是
+累赘，如果在项目启动前，能够花
+一定的时间去深入了解行业和用户
+是非常必要的
+1. 商业需求文档
+![alt text](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1512937244240&di=40daf2cc102ef80164818a6e4459e099&imgtype=jpg&src=http%3A%2F%2Fimg3.imgtn.bdimg.com%2Fit%2Fu%3D2925058893%2C2567363242%26fm%3D214%26gp%3D0.jpg)
+
+2. 市场需求文档
+
+![alt text](https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=8e1410b566061d95694b3f6a1a9d61b4/e4dde71190ef76c680fa92a69516fdfaaf516716.jpg)
+
+## 技术评估
+任何的想法都要落地，尊重开发人员，和开发相处融洽一点，会对产品的推动非常有帮助。
+
+## 产品制作
+
+1. 产品背景
+2. 用户画像
+3. 时间规划
+4. 功能架构
+5. 任务流程
+6. 需求详细说明
+
+## 交互设计
+1. 线框图
+2. 页面流程图
+3. 高保真原型图
+4. 交互设计说明
+
+## ui设计
+ 一般来说交互设计师讲线框图交给设计师，设计师就可以开工了。这个过程，交互也要多和设计去沟通
+
+## 项目执行
+ ui设计完毕，交互说明文档出稿，可以交给项目经理去实现了。
+ 
+## 项目上线
+1. 用户反馈和评论
+2. 需求提取
+3. 进行修正和迭代
+   
 
 
 
